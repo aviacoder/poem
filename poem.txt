@@ -4,6 +4,6 @@ pink
 green
 red
 braun
-
+silver
 blue
 these are the color of the rainbow
